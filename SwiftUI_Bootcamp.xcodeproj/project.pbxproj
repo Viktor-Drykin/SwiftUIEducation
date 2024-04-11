@@ -12,6 +12,7 @@
 		C05B27392B681623005D12F1 /* ActionSheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B27382B681623005D12F1 /* ActionSheetExample.swift */; };
 		C05B273B2B6817E4005D12F1 /* ContexMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */; };
 		C05B273D2B6819F6005D12F1 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B273C2B6819F6005D12F1 /* TextFieldExample.swift */; };
+		C06FD4F82BC81B4A00805A43 /* GridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06FD4F72BC81B4A00805A43 /* GridExample.swift */; };
 		C0A04D822B5EF13200ABC8DF /* SwiftUI_BootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A04D812B5EF13200ABC8DF /* SwiftUI_BootcampApp.swift */; };
 		C0A04D842B5EF13200ABC8DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0A04D832B5EF13200ABC8DF /* ContentView.swift */; };
 		C0A04D862B5EF13900ABC8DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0A04D852B5EF13900ABC8DF /* Assets.xcassets */; };
@@ -62,6 +63,7 @@
 		C05B27382B681623005D12F1 /* ActionSheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetExample.swift; sourceTree = "<group>"; };
 		C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContexMenuExample.swift; sourceTree = "<group>"; };
 		C05B273C2B6819F6005D12F1 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
+		C06FD4F72BC81B4A00805A43 /* GridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridExample.swift; sourceTree = "<group>"; };
 		C0A04D7E2B5EF13200ABC8DF /* SwiftUI_Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Bootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0A04D812B5EF13200ABC8DF /* SwiftUI_BootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampApp.swift; sourceTree = "<group>"; };
 		C0A04D832B5EF13200ABC8DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				C0EBE4532B7951760031A001 /* TextFieldSubmitExample.swift */,
 				C0EBE4552B7954FE0031A001 /* NavigationStackExample.swift */,
 				C02475BD2BC43D5B007E79A4 /* SafeAreaInsetsExample.swift */,
+				C06FD4F72BC81B4A00805A43 /* GridExample.swift */,
 			);
 			path = Bootcamp;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				C0EBE44A2B7923FE0031A001 /* ProfileView.swift in Sources */,
 				C0F8EC9F2B62C3BA007F66E3 /* Buttons.swift in Sources */,
 				C05B27392B681623005D12F1 /* ActionSheetExample.swift in Sources */,
+				C06FD4F82BC81B4A00805A43 /* GridExample.swift in Sources */,
 				C0C605602B66C27C002957A9 /* SheetsExample.swift in Sources */,
 				C0C605642B66CD0B002957A9 /* NavigationExample.swift in Sources */,
 				C0BB8A412B696BC6003F74F4 /* TabViewExample.swift in Sources */,

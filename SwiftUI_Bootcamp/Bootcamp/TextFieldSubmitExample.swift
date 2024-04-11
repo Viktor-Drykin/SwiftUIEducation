@@ -2,7 +2,7 @@
 //  TextFieldSubmitExample.swift
 //  SwiftUI_Bootcamp
 //
-//  Created by DataArt Viktor Drykin on 11.02.2024.
+//  Created by Viktor Drykin on 11.02.2024.
 //
 
 import SwiftUI

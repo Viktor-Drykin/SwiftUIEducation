@@ -2,7 +2,7 @@
 //  AnimationsExample.swift
 //  SwiftUI_Bootcamp
 //
-//  Created by DataArt Viktor Drykin on 26.01.2024.
+//  Created by Viktor Drykin on 26.01.2024.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  SafeAreaInsetsExample.swift
 //  SwiftUI_Bootcamp
 //
-//  Created by DataArt Viktor Drykin on 08.04.2024.
+//  Created by Viktor Drykin on 08.04.2024.
 //
 
 import SwiftUI
