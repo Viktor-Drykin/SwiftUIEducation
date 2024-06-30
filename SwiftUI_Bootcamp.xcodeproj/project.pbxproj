@@ -45,6 +45,8 @@
 		C0E9D7BE2C31AD4C00CB1F3A /* RotationGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7BD2C31AD4C00CB1F3A /* RotationGestureExample.swift */; };
 		C0E9D7C02C31AE9300CB1F3A /* DragGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7BF2C31AE9300CB1F3A /* DragGestureExample.swift */; };
 		C0E9D7C22C31B2A600CB1F3A /* DragGestureExample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7C12C31B2A500CB1F3A /* DragGestureExample2.swift */; };
+		C0E9D7C42C31B8AC00CB1F3A /* ScrollViewReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7C32C31B8AC00CB1F3A /* ScrollViewReaderExample.swift */; };
+		C0E9D7C72C31BDAD00CB1F3A /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7C62C31BDAD00CB1F3A /* GeometryReaderExample.swift */; };
 		C0EBE4462B77EC070031A001 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EBE4452B77EC070031A001 /* IntroView.swift */; };
 		C0EBE4482B77ECD10031A001 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EBE4472B77ECD10031A001 /* OnboardingView.swift */; };
 		C0EBE44A2B7923FE0031A001 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EBE4492B7923FE0031A001 /* ProfileView.swift */; };
@@ -106,6 +108,8 @@
 		C0E9D7BD2C31AD4C00CB1F3A /* RotationGestureExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureExample.swift; sourceTree = "<group>"; };
 		C0E9D7BF2C31AE9300CB1F3A /* DragGestureExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureExample.swift; sourceTree = "<group>"; };
 		C0E9D7C12C31B2A500CB1F3A /* DragGestureExample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureExample2.swift; sourceTree = "<group>"; };
+		C0E9D7C32C31B8AC00CB1F3A /* ScrollViewReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderExample.swift; sourceTree = "<group>"; };
+		C0E9D7C62C31BDAD00CB1F3A /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
 		C0EBE4452B77EC070031A001 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		C0EBE4472B77ECD10031A001 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		C0EBE4492B7923FE0031A001 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
@@ -244,6 +248,8 @@
 				C0E9D7BD2C31AD4C00CB1F3A /* RotationGestureExample.swift */,
 				C0E9D7BF2C31AE9300CB1F3A /* DragGestureExample.swift */,
 				C0E9D7C12C31B2A500CB1F3A /* DragGestureExample2.swift */,
+				C0E9D7C32C31B8AC00CB1F3A /* ScrollViewReaderExample.swift */,
+				C0E9D7C62C31BDAD00CB1F3A /* GeometryReaderExample.swift */,
 			);
 			path = "СontinueLearning";
 			sourceTree = "<group>";
@@ -336,6 +342,7 @@
 				C0A04D932B5FBD0A00ABC8DF /* Stacks.swift in Sources */,
 				C0EBE44E2B7930F20031A001 /* ButtonStyleExample.swift in Sources */,
 				C0E731AA2B6E673500562100 /* TapGestureExample.swift in Sources */,
+				C0E9D7C72C31BDAD00CB1F3A /* GeometryReaderExample.swift in Sources */,
 				C0EBE4462B77EC070031A001 /* IntroView.swift in Sources */,
 				C0E731AE2B6FF38F00562100 /* EnvironmentObjectExample.swift in Sources */,
 				C02475BE2BC43D5B007E79A4 /* SafeAreaInsetsExample.swift in Sources */,
@@ -374,6 +381,7 @@
 				C0A04D902B5EF32400ABC8DF /* BackgroundsAndOverlays.swift in Sources */,
 				C0A04D952B6018AE00ABC8DF /* Paddings.swift in Sources */,
 				C0EBE44C2B79293F0031A001 /* TextSelectionExample.swift in Sources */,
+				C0E9D7C42C31B8AC00CB1F3A /* ScrollViewReaderExample.swift in Sources */,
 				C0EBE4502B7933020031A001 /* ListSwipeActionsExample.swift in Sources */,
 				C00AB4FB2C28736C00C57AB3 /* MarnificationGestureExample.swift in Sources */,
 				C0F8EC972B617F4C007F66E3 /* ForEachExample.swift in Sources */,
