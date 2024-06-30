@@ -43,6 +43,8 @@
 		C0E731AC2B6FA0CA00562100 /* ObservableStateExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E731AB2B6FA0CA00562100 /* ObservableStateExample.swift */; };
 		C0E731AE2B6FF38F00562100 /* EnvironmentObjectExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E731AD2B6FF38F00562100 /* EnvironmentObjectExample.swift */; };
 		C0E9D7BE2C31AD4C00CB1F3A /* RotationGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7BD2C31AD4C00CB1F3A /* RotationGestureExample.swift */; };
+		C0E9D7C02C31AE9300CB1F3A /* DragGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7BF2C31AE9300CB1F3A /* DragGestureExample.swift */; };
+		C0E9D7C22C31B2A600CB1F3A /* DragGestureExample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E9D7C12C31B2A500CB1F3A /* DragGestureExample2.swift */; };
 		C0EBE4462B77EC070031A001 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EBE4452B77EC070031A001 /* IntroView.swift */; };
 		C0EBE4482B77ECD10031A001 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EBE4472B77ECD10031A001 /* OnboardingView.swift */; };
 		C0EBE44A2B7923FE0031A001 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EBE4492B7923FE0031A001 /* ProfileView.swift */; };
@@ -102,6 +104,8 @@
 		C0E731AB2B6FA0CA00562100 /* ObservableStateExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableStateExample.swift; sourceTree = "<group>"; };
 		C0E731AD2B6FF38F00562100 /* EnvironmentObjectExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectExample.swift; sourceTree = "<group>"; };
 		C0E9D7BD2C31AD4C00CB1F3A /* RotationGestureExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureExample.swift; sourceTree = "<group>"; };
+		C0E9D7BF2C31AE9300CB1F3A /* DragGestureExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureExample.swift; sourceTree = "<group>"; };
+		C0E9D7C12C31B2A500CB1F3A /* DragGestureExample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureExample2.swift; sourceTree = "<group>"; };
 		C0EBE4452B77EC070031A001 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		C0EBE4472B77ECD10031A001 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		C0EBE4492B7923FE0031A001 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
@@ -238,6 +242,8 @@
 				C0B41EBA2C22CB5200AD28C3 /* LongPressGestureExample.swift */,
 				C00AB4FA2C28736C00C57AB3 /* MarnificationGestureExample.swift */,
 				C0E9D7BD2C31AD4C00CB1F3A /* RotationGestureExample.swift */,
+				C0E9D7BF2C31AE9300CB1F3A /* DragGestureExample.swift */,
+				C0E9D7C12C31B2A500CB1F3A /* DragGestureExample2.swift */,
 			);
 			path = "СontinueLearning";
 			sourceTree = "<group>";
@@ -362,6 +368,8 @@
 				C06FD4FA2BC81EC800805A43 /* ContentUnavailableViewExample.swift in Sources */,
 				C0EBE4482B77ECD10031A001 /* OnboardingView.swift in Sources */,
 				C0F8ECA92B641887007F66E3 /* TransitionExample.swift in Sources */,
+				C0E9D7C22C31B2A600CB1F3A /* DragGestureExample2.swift in Sources */,
+				C0E9D7C02C31AE9300CB1F3A /* DragGestureExample.swift in Sources */,
 				C0F8ECA32B640960007F66E3 /* BindingExample.swift in Sources */,
 				C0A04D902B5EF32400ABC8DF /* BackgroundsAndOverlays.swift in Sources */,
 				C0A04D952B6018AE00ABC8DF /* Paddings.swift in Sources */,
