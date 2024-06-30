@@ -15,7 +15,9 @@ struct SwiftUI_BootcampApp: App {
             //IntroView()
             //FocusStateExample()
             //TextFieldSubmitExample()
-            NavigationStackExample()
+            //NavigationStackExample()
+            //LongPressGestureExample()
+            //MarnificationGestureExample()
         }
     }
 }
