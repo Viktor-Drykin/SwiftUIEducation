@@ -8,8 +8,28 @@
 import SwiftUI
 
 struct RotationGestureExample: View {
+
+    @State var angle: Angle = Angle(degrees: 0)
+
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("Hello, World!")
+            .font(.largeTitle)
+            .fontWeight(.semibold)
+            .foregroundStyle(Color.white)
+            .padding(50)
+            .background(Color.blue.clipShape(RoundedRectangle(cornerRadius: 10)))
+            .rotationEffect(angle)
+            .gesture(
+                RotateGesture()
+                    .onChanged { value in
+                        angle = value.rotation
+                    }
+                    .onEnded { value in
+                        withAnimation(.spring()) {
+                            angle = Angle(degrees: 0)
+                        }
+                    }
+            )
     }
 }
 
