@@ -14,6 +14,8 @@
 		C05B273B2B6817E4005D12F1 /* ContexMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */; };
 		C05B273D2B6819F6005D12F1 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B273C2B6819F6005D12F1 /* TextFieldExample.swift */; };
 		C05B2BD12C5AA6A9006D4025 /* MaskModifierExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B2BD02C5AA6A9006D4025 /* MaskModifierExample.swift */; };
+		C05B2BD32C5BC7F7006D4025 /* AllignmentExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B2BD22C5BC7F7006D4025 /* AllignmentExample.swift */; };
+		C05B2BD52C5BCC11006D4025 /* VisualEffectExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B2BD42C5BCC11006D4025 /* VisualEffectExample.swift */; };
 		C06FD4F82BC81B4A00805A43 /* GridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06FD4F72BC81B4A00805A43 /* GridExample.swift */; };
 		C06FD4FA2BC81EC800805A43 /* ContentUnavailableViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06FD4F92BC81EC800805A43 /* ContentUnavailableViewExample.swift */; };
 		C06FD4FC2BC820F200805A43 /* ControlGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06FD4FB2BC820F200805A43 /* ControlGroupExample.swift */; };
@@ -78,6 +80,8 @@
 		C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContexMenuExample.swift; sourceTree = "<group>"; };
 		C05B273C2B6819F6005D12F1 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 		C05B2BD02C5AA6A9006D4025 /* MaskModifierExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskModifierExample.swift; sourceTree = "<group>"; };
+		C05B2BD22C5BC7F7006D4025 /* AllignmentExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllignmentExample.swift; sourceTree = "<group>"; };
+		C05B2BD42C5BCC11006D4025 /* VisualEffectExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectExample.swift; sourceTree = "<group>"; };
 		C06FD4F72BC81B4A00805A43 /* GridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridExample.swift; sourceTree = "<group>"; };
 		C06FD4F92BC81EC800805A43 /* ContentUnavailableViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewExample.swift; sourceTree = "<group>"; };
 		C06FD4FB2BC820F200805A43 /* ControlGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupExample.swift; sourceTree = "<group>"; };
@@ -256,6 +260,8 @@
 				C0E9D7C62C31BDAD00CB1F3A /* GeometryReaderExample.swift */,
 				C080FE822C5A7B1000ECFE18 /* MultipleSheetsExample.swift */,
 				C05B2BD02C5AA6A9006D4025 /* MaskModifierExample.swift */,
+				C05B2BD22C5BC7F7006D4025 /* AllignmentExample.swift */,
+				C05B2BD42C5BCC11006D4025 /* VisualEffectExample.swift */,
 			);
 			path = "СontinueLearning";
 			sourceTree = "<group>";
@@ -341,6 +347,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C06FD4FE2BC82AA900805A43 /* ObservableExampleBefore.swift in Sources */,
+				C05B2BD32C5BC7F7006D4025 /* AllignmentExample.swift in Sources */,
 				C0EBE4542B7951760031A001 /* TextFieldSubmitExample.swift in Sources */,
 				C0F8EC992B6181E5007F66E3 /* ScrollViewExample.swift in Sources */,
 				C0F8ECA72B641568007F66E3 /* AnimationTimingExample.swift in Sources */,
@@ -365,6 +372,7 @@
 				C0EBE4522B7938480031A001 /* FocusStateExample.swift in Sources */,
 				C0EBE4562B7954FE0031A001 /* NavigationStackExample.swift in Sources */,
 				C0BB8A3B2B695D77003F74F4 /* DatePickerExample.swift in Sources */,
+				C05B2BD52C5BCC11006D4025 /* VisualEffectExample.swift in Sources */,
 				C0F8ECA12B62C61A007F66E3 /* StateWrapper.swift in Sources */,
 				C0EBE44A2B7923FE0031A001 /* ProfileView.swift in Sources */,
 				C0F8EC9F2B62C3BA007F66E3 /* Buttons.swift in Sources */,
