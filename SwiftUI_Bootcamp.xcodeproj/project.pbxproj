@@ -13,6 +13,7 @@
 		C05B27392B681623005D12F1 /* ActionSheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B27382B681623005D12F1 /* ActionSheetExample.swift */; };
 		C05B273B2B6817E4005D12F1 /* ContexMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */; };
 		C05B273D2B6819F6005D12F1 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B273C2B6819F6005D12F1 /* TextFieldExample.swift */; };
+		C05B2BD12C5AA6A9006D4025 /* MaskModifierExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B2BD02C5AA6A9006D4025 /* MaskModifierExample.swift */; };
 		C06FD4F82BC81B4A00805A43 /* GridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06FD4F72BC81B4A00805A43 /* GridExample.swift */; };
 		C06FD4FA2BC81EC800805A43 /* ContentUnavailableViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06FD4F92BC81EC800805A43 /* ContentUnavailableViewExample.swift */; };
 		C06FD4FC2BC820F200805A43 /* ControlGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06FD4FB2BC820F200805A43 /* ControlGroupExample.swift */; };
@@ -76,6 +77,7 @@
 		C05B27382B681623005D12F1 /* ActionSheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetExample.swift; sourceTree = "<group>"; };
 		C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContexMenuExample.swift; sourceTree = "<group>"; };
 		C05B273C2B6819F6005D12F1 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
+		C05B2BD02C5AA6A9006D4025 /* MaskModifierExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskModifierExample.swift; sourceTree = "<group>"; };
 		C06FD4F72BC81B4A00805A43 /* GridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridExample.swift; sourceTree = "<group>"; };
 		C06FD4F92BC81EC800805A43 /* ContentUnavailableViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewExample.swift; sourceTree = "<group>"; };
 		C06FD4FB2BC820F200805A43 /* ControlGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupExample.swift; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 				C0E9D7C32C31B8AC00CB1F3A /* ScrollViewReaderExample.swift */,
 				C0E9D7C62C31BDAD00CB1F3A /* GeometryReaderExample.swift */,
 				C080FE822C5A7B1000ECFE18 /* MultipleSheetsExample.swift */,
+				C05B2BD02C5AA6A9006D4025 /* MaskModifierExample.swift */,
 			);
 			path = "СontinueLearning";
 			sourceTree = "<group>";
@@ -368,6 +371,7 @@
 				C05B27392B681623005D12F1 /* ActionSheetExample.swift in Sources */,
 				C06FD4F82BC81B4A00805A43 /* GridExample.swift in Sources */,
 				C0C605602B66C27C002957A9 /* SheetsExample.swift in Sources */,
+				C05B2BD12C5AA6A9006D4025 /* MaskModifierExample.swift in Sources */,
 				C0C605642B66CD0B002957A9 /* NavigationExample.swift in Sources */,
 				C0BB8A412B696BC6003F74F4 /* TabViewExample.swift in Sources */,
 				C0BB8A3D2B696000003F74F4 /* StepperExample.swift in Sources */,
