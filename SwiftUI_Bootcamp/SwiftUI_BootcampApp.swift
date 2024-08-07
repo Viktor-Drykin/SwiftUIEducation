@@ -19,7 +19,8 @@ struct SwiftUI_BootcampApp: App {
             //LongPressGestureExample()
             //MarnificationGestureExample()
             //DragGestureExample()
-            CoreDataExample()
+            //CoreDataExample()
+            CoreDataRelationshipsExample()
         }
     }
 }
