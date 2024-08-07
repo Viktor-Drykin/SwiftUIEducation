@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		C00AB4FB2C28736C00C57AB3 /* MarnificationGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00AB4FA2C28736C00C57AB3 /* MarnificationGestureExample.swift */; };
 		C02475BE2BC43D5B007E79A4 /* SafeAreaInsetsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02475BD2BC43D5B007E79A4 /* SafeAreaInsetsExample.swift */; };
+		C0373AD02C639CA400127655 /* CoreDataExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0373ACF2C639CA400127655 /* CoreDataExample.swift */; };
+		C0373AD42C639D7900127655 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C0373AD22C639D7900127655 /* FruitsContainer.xcdatamodeld */; };
 		C05B27372B681335005D12F1 /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B27362B681335005D12F1 /* AlertExample.swift */; };
 		C05B27392B681623005D12F1 /* ActionSheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B27382B681623005D12F1 /* ActionSheetExample.swift */; };
 		C05B273B2B6817E4005D12F1 /* ContexMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */; };
@@ -75,6 +77,8 @@
 /* Begin PBXFileReference section */
 		C00AB4FA2C28736C00C57AB3 /* MarnificationGestureExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarnificationGestureExample.swift; sourceTree = "<group>"; };
 		C02475BD2BC43D5B007E79A4 /* SafeAreaInsetsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetsExample.swift; sourceTree = "<group>"; };
+		C0373ACF2C639CA400127655 /* CoreDataExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataExample.swift; sourceTree = "<group>"; };
+		C0373AD32C639D7900127655 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		C05B27362B681335005D12F1 /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 		C05B27382B681623005D12F1 /* ActionSheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetExample.swift; sourceTree = "<group>"; };
 		C05B273A2B6817E3005D12F1 /* ContexMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContexMenuExample.swift; sourceTree = "<group>"; };
@@ -150,6 +154,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C0373AD12C639D5200127655 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				C0373ACF2C639CA400127655 /* CoreDataExample.swift */,
+				C0373AD22C639D7900127655 /* FruitsContainer.xcdatamodeld */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
 		C06FD4FF2BC8306C00805A43 /* ObservableExample */ = {
 			isa = PBXGroup;
 			children = (
@@ -251,6 +264,7 @@
 		C0B41EB92C22CB3500AD28C3 /* СontinueLearning */ = {
 			isa = PBXGroup;
 			children = (
+				C0373AD12C639D5200127655 /* CoreData */,
 				C0B41EBA2C22CB5200AD28C3 /* LongPressGestureExample.swift */,
 				C00AB4FA2C28736C00C57AB3 /* MarnificationGestureExample.swift */,
 				C0E9D7BD2C31AD4C00CB1F3A /* RotationGestureExample.swift */,
@@ -355,6 +369,7 @@
 				C0A04D932B5FBD0A00ABC8DF /* Stacks.swift in Sources */,
 				C080FE832C5A7B1000ECFE18 /* MultipleSheetsExample.swift in Sources */,
 				C0EBE44E2B7930F20031A001 /* ButtonStyleExample.swift in Sources */,
+				C0373AD42C639D7900127655 /* FruitsContainer.xcdatamodeld in Sources */,
 				C0E731AA2B6E673500562100 /* TapGestureExample.swift in Sources */,
 				C0E9D7C72C31BDAD00CB1F3A /* GeometryReaderExample.swift in Sources */,
 				C0EBE4462B77EC070031A001 /* IntroView.swift in Sources */,
@@ -389,6 +404,7 @@
 				C05B27372B681335005D12F1 /* AlertExample.swift in Sources */,
 				C0B41EBB2C22CB5200AD28C3 /* LongPressGestureExample.swift in Sources */,
 				C06FD4FA2BC81EC800805A43 /* ContentUnavailableViewExample.swift in Sources */,
+				C0373AD02C639CA400127655 /* CoreDataExample.swift in Sources */,
 				C0EBE4482B77ECD10031A001 /* OnboardingView.swift in Sources */,
 				C0F8ECA92B641887007F66E3 /* TransitionExample.swift in Sources */,
 				C0E9D7C22C31B2A600CB1F3A /* DragGestureExample2.swift in Sources */,
@@ -612,6 +628,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		C0373AD22C639D7900127655 /* FruitsContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				C0373AD32C639D7900127655 /* FruitsContainer.xcdatamodel */,
+			);
+			currentVersion = C0373AD32C639D7900127655 /* FruitsContainer.xcdatamodel */;
+			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = C0A04D762B5EF13200ABC8DF /* Project object */;
 }

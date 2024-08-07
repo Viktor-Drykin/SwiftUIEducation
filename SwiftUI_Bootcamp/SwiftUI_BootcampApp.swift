@@ -18,7 +18,8 @@ struct SwiftUI_BootcampApp: App {
             //NavigationStackExample()
             //LongPressGestureExample()
             //MarnificationGestureExample()
-            DragGestureExample()
+            //DragGestureExample()
+            CoreDataExample()
         }
     }
 }
