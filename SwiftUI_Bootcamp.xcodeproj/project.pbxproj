@@ -41,6 +41,7 @@
 		C0BB8A3F2B69623A003F74F4 /* SliderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0BB8A3E2B69623A003F74F4 /* SliderExample.swift */; };
 		C0BB8A412B696BC6003F74F4 /* TabViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0BB8A402B696BC6003F74F4 /* TabViewExample.swift */; };
 		C0BD2DAB2CD9388B00BCC392 /* CombineAdvancedExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0BD2DAA2CD9388B00BCC392 /* CombineAdvancedExample.swift */; };
+		C0BD2DAD2CDA441D00BCC392 /* FuturesExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0BD2DAC2CDA441D00BCC392 /* FuturesExample.swift */; };
 		C0C605602B66C27C002957A9 /* SheetsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0C6055F2B66C27C002957A9 /* SheetsExample.swift */; };
 		C0C605622B66C78B002957A9 /* PopoverExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0C605612B66C78B002957A9 /* PopoverExample.swift */; };
 		C0C605642B66CD0B002957A9 /* NavigationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0C605632B66CD0B002957A9 /* NavigationExample.swift */; };
@@ -113,6 +114,7 @@
 		C0BB8A3E2B69623A003F74F4 /* SliderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderExample.swift; sourceTree = "<group>"; };
 		C0BB8A402B696BC6003F74F4 /* TabViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewExample.swift; sourceTree = "<group>"; };
 		C0BD2DAA2CD9388B00BCC392 /* CombineAdvancedExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineAdvancedExample.swift; sourceTree = "<group>"; };
+		C0BD2DAC2CDA441D00BCC392 /* FuturesExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuturesExample.swift; sourceTree = "<group>"; };
 		C0C6055F2B66C27C002957A9 /* SheetsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsExample.swift; sourceTree = "<group>"; };
 		C0C605612B66C78B002957A9 /* PopoverExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverExample.swift; sourceTree = "<group>"; };
 		C0C605632B66CD0B002957A9 /* NavigationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExample.swift; sourceTree = "<group>"; };
@@ -293,6 +295,7 @@
 			isa = PBXGroup;
 			children = (
 				C0BD2DAA2CD9388B00BCC392 /* CombineAdvancedExample.swift */,
+				C0BD2DAC2CDA441D00BCC392 /* FuturesExample.swift */,
 			);
 			path = Advanced;
 			sourceTree = "<group>";
@@ -385,6 +388,7 @@
 				C0F8ECA72B641568007F66E3 /* AnimationTimingExample.swift in Sources */,
 				C0F8EC9B2B62B8E2007F66E3 /* LazyGrids.swift in Sources */,
 				C0A04D932B5FBD0A00ABC8DF /* Stacks.swift in Sources */,
+				C0BD2DAD2CDA441D00BCC392 /* FuturesExample.swift in Sources */,
 				C080FE832C5A7B1000ECFE18 /* MultipleSheetsExample.swift in Sources */,
 				C0EBE44E2B7930F20031A001 /* ButtonStyleExample.swift in Sources */,
 				C0373AD42C639D7900127655 /* FruitsContainer.xcdatamodeld in Sources */,
